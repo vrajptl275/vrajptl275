@@ -1,150 +1,175 @@
+<!-- ══════════════════════════════════════════════════════════════ -->
+<!--                    VRAJ PATEL — GitHub Profile README         -->
+<!-- ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vraj%20Patel&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20CV%20%26%20ML%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Typing SVG Banner -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Hey+%F0%9F%91%8B+I'm+Vraj+Patel;AI+%2F+ML+Engineer;Full-Stack+Developer;Computer+Vision+Enthusiast)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- Profile Views & Followers Badges -->
+![Profile Views](https://komarev.com/ghpvc/?username=vrajptl275&label=Profile+Views&color=00d9ff&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/vrajptl275?label=Followers&style=flat-square&color=00d9ff)](https://github.com/vrajptl275)
+[![Portfolio](https://img.shields.io/badge/Portfolio-vrajpatel.tech-00d9ff?style=flat-square&logo=vercel&logoColor=white)](https://vrajpatel.tech)
 
 </div>
 
 ---
 
+## `$ whoami`
+
+```python
+class VrajPatel:
+    def __init__(self):
+        self.name        = "Vraj Patel"
+        self.degree      = "B.Tech Information Technology"
+        self.graduation  = 2027
+        self.role        = ["AI/ML Engineer", "Full-Stack Developer", "Computer Vision Enthusiast"]
+        self.focus       = ["Deep Learning", "Computer Vision", "End-to-End AI Systems"]
+        self.status      = "Open to Internships & Opportunities 🚀"
+        self.portfolio   = "https://vrajpatel.tech"
+
+    def current_mission(self):
+        return "Architecting intelligent systems at the intersection of ML & Software Engineering."
+```
+
+---
+
+## `$ ls skills/`
+
 <div align="center">
 
-### Hey, I'm Vraj 👋
-
-I build real things — civic platforms, AI tools, computer vision systems, and finance bots.  
-Currently exploring the intersection of **full-stack web**, **machine learning**, and **computer vision**.
-
-[![GitHub followers](https://img.shields.io/github/followers/vrajptl275?label=Follow&style=social)](https://github.com/vrajptl275)
-&nbsp;
-[![Profile views](https://komarev.com/ghpvc/?username=vrajptl275&color=6e40c9&style=flat-square&label=Profile+Views)](https://github.com/vrajptl275)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-- 🎓 CS student with a focus on building production-ready applications
-- 🔭 Currently working on AI-augmented civic tech and real-time CV systems
-- 🌱 Exploring: **GARCH models**, **YOLOv11**, **LLM APIs**, **cloud deployment**
-- 💡 I like solving real-world problems with clean code and thoughtful UX
-- 📍 Based in Anand, Gujarat, India
-
----
-
-## 🛠️ Tech Stack
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🌐 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Backend & APIs**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=python&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
-
-**ML / CV**
-
+### 🤖 AI / ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white)
-![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFAB?style=for-the-badge&logo=ultralytics&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-00897B?style=for-the-badge&logo=google&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLOv11-00D9FF?style=for-the-badge&logo=yolo&logoColor=black)
 
-**Database & Cloud**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Leaflet](https://img.shields.io/badge/Leaflet.js-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+### 🐍 Python Ecosystem
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
----
+### 🛠️ Tools & Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 🚀 Featured Projects
-
-### 🏛️ [Anand Civic Issue Reporting System](https://github.com/vrajptl275/anand-civic-app)
-
-> A full-stack civic complaint management platform for Anand City, Gujarat.
-
-Role-based system (Citizen / Officer / Dept Admin / Municipal Admin) with complaint lifecycle management, GPS boundary validation, AI image verification via Gemini, real-time notifications, and dashboard analytics. Built as a major academic project demonstrating end-to-end software engineering.
-
-**Stack:** `Flask` `SQLAlchemy` `JWT` `PostgreSQL` `Leaflet.js` `Gemini API` `Render`
-
----
-
-### 📈 [StockSense AI](https://github.com/vrajptl275/stocksense-ai)
-
-> AI-powered stock analysis chatbot with a WhatsApp-style chat interface.
-
-Ask questions in plain English and get buy/sell recommendations powered by RSI, MACD, GARCH volatility modelling, and XGBoost. Supports global stocks with interactive Plotly charts (candlestick, Bollinger Bands, multi-stock comparison).
-
-**Stack:** `Flask` `yfinance` `GARCH` `XGBoost` `Plotly` `pandas-ta` `scikit-learn`
-
----
-
-### 🚗 [Driver Drowsiness & Distraction Detection](https://github.com/vrajptl275/driver-monitoring-system)
-
-> Real-time computer vision system to keep drivers safe.
-
-Dual-phase detection: MediaPipe Face Mesh for drowsiness (EAR), yawning (MAR), and head pose distraction — plus a custom YOLOv11 model trained on 2,004 images for phone detection. Auto-calibration, low-light CLAHE enhancement, independent alarm system.
-
-**Stack:** `Python` `OpenCV` `MediaPipe` `YOLOv11` `NumPy` `Pygame`
-
----
-
-### 🎓 [Smart Attendance System](https://github.com/vrajptl275/smart-attendance)
-
-> Web-based attendance tracker for educational institutions.
-
-Clean multi-role attendance system (Admin / Teacher / Student) with real-time recording, report generation, and face recognition support. Deployed on Render.
-
-**Stack:** `Flask` `Python` `SQLite` `HTML/CSS/JS` `Gunicorn`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vrajptl275&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajptl275&layout=compact&theme=tokyonight&hide_border=true&langs_count=7" />
-
-</div>
-
-<div align="center">
-
-<img width="70%" src="https://streak-stats.demolab.com?user=vrajptl275&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+### ⚡ Vibe Coding
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 
 </div>
 
 ---
 
-## 📫 Connect With Me
+## `$ cat projects.log`
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-vrajptl275-181717?style=for-the-badge&logo=github)](https://github.com/vrajptl275)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/vrajptl275)
-[![Email](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vrajptl275@gmail.com)
+| 🚀 Project | 📋 Description | 🔧 Stack | 🔗 Link |
+|---|---|---|---|
+| **StockSense AI** | AI stock chatbot with real-time indicators, RSI, MACD, Bollinger Bands & hybrid buy/sell signals | Flask · XGBoost · GARCH · Plotly · yfinance | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/vrajptl275/stocksense-ai) |
+| **Anand Civic System** | Full-stack civic complaint platform with 4-role RBAC, GPS validation & Gemini AI auto-categorization | Flask · PostgreSQL · Gemini AI · Leaflet.js · JWT | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/Deadpool20x/civic-issue-system) |
+| **Smart Attendance** | Face recognition attendance system with real-time detection & multi-role dashboards | Flask · OpenCV · face_recognition · SQLite | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/vrajptl275/smart-attendance) |
+| **Driver Monitoring** | Dual-phase safety system — EAR drowsiness detection + YOLOv11 distraction detection in real-time | Python · MediaPipe · YOLOv11 · OpenCV · dlib | 🔒 NDA |
+
+</div>
+
+---
+
+## `$ git log --oneline --stats`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=vrajptl275&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&ring_color=00d9ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=vrajptl275&show_icons=true&theme=default&hide_border=true&title_color=0366d6&icon_color=0366d6" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vrajptl275&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9" width="49%" alt="Vraj's GitHub Stats" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajptl275&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajptl275&layout=compact&theme=default&hide_border=true&title_color=0366d6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajptl275&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9" width="49%" alt="Top Languages" />
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vrajptl275&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=vrajptl275&theme=default&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=vrajptl275&theme=github-dark-blue&hide_border=true&background=0d1117&ring=00d9ff&fire=00d9ff&currStreakLabel=00d9ff" width="60%" alt="GitHub Streak" />
+</picture>
+
+</div>
+
+---
+
+## `$ cat activity.graph`
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vrajptl275&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=vrajptl275&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vrajptl275&theme=github-compact&hide_border=true&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff" width="100%" alt="Contribution Graph" />
+</picture>
+
+---
+
+## `$ cat trophies.json`
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=vrajptl275&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=vrajptl275&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=vrajptl275&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10" alt="Trophies" />
+</picture>
+</div>
+
+---
+
+## `$ cat hackathons.log`
+
+```
+⚡ CVMU Hackathon 4.0  ·  2026  ·  36-Hour Sprint
+🏛️ Smart India Hackathon (Internal Qualifier)  ·  2025
+```
+
+---
+
+## `$ ping vraj`
+
+<div align="center">
+
+<a href="https://vrajpatel.tech" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio-vrajpatel.tech-00d9ff?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://linkedin.com/in/vraj-patel-56941a347" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://github.com/vrajptl275" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="mailto:sp533013@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://wa.me/917698750331" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
+<br/>
+
+> *"Turning complex ideas into real-world, deployable solutions — one commit at a time."*
+
+**SYSTEM STATUS: 🟢 ONLINE · AVAILABLE FOR OPPORTUNITIES**
 
 </div>
 
 ---
 
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
-
+  <sub>⚡ Built with passion by Vraj Patel · B.Tech IT · 2027</sub>
 </div>
