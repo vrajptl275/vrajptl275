@@ -8,15 +8,11 @@
 
 <br/><br/>
 
-<br/>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=vrajptl275&color=00e5ff&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 ![GitHub followers](https://img.shields.io/github/followers/vrajptl275?label=Followers&style=for-the-badge&color=a855f7)
 &nbsp;
 ![GitHub stars](https://img.shields.io/github/stars/vrajptl275?label=Stars&style=for-the-badge&color=ff2d78)
-
-<br/>
 
 </div>
 
@@ -26,9 +22,9 @@
 
 ## 👋 About Me
 
-Hey! I'm **Vraj** — an AI/ML Engineer and Full-Stack Developer based in **Vadodara, Gujarat, India 🇮🇳**, currently studying in Anand.
+Hey! I'm **Vraj** — an AI/ML Engineer and Full-Stack Developer from **Gujarat, India 🇮🇳**, studying B.Tech IT at MBIT, Anand (CVM University), graduating in 2027.
 
-I love building **end-to-end AI systems** — from real-time computer vision pipelines to full-stack platforms with live deployments. I work at the intersection of machine learning and software engineering, and turning complex ideas into real, usable products.
+I love building **end-to-end AI systems** — from real-time computer vision pipelines to full-stack platforms with live deployments. I work at the intersection of machine learning and software engineering, turning complex ideas into real, usable products.
 
 | | |
 |:---|:---|
@@ -47,8 +43,11 @@ I love building **end-to-end AI systems** — from real-time computer vision pip
 | | |
 |:---|:---|
 | 🏫 **College** | Madhuben & Bhanubhai Patel Institute of Technology (MBIT) |
-| 🎓 **University** | Charotar Vidya Mandal (CVM University) |
+| 🎓 **Degree** | B.Tech — Information Technology |
+| 🏛️ **University** | CVM University |
+| 📅 **Graduating** | 2027 |
 | 📍 **Location** | Anand, Gujarat, India |
+| 🎯 **CGPA** | 8.50 / 10 |
 
 <br/>
 
@@ -68,6 +67,7 @@ I love building **end-to-end AI systems** — from real-time computer vision pip
 
 **AI · ML · Computer Vision**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
@@ -78,6 +78,7 @@ I love building **end-to-end AI systems** — from real-time computer vision pip
 **Frameworks & Libraries**
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
@@ -115,7 +116,26 @@ Dual-phase CV pipeline for driver safety monitoring. **Phase 1** uses MediaPipe 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) &nbsp;
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFAB?style=flat-square&logo=github&logoColor=black)
 
-📩 *Demo available on request*
+📩 *Demo available on request — [sp533013@gmail.com](mailto:sp533013@gmail.com)*
+
+</td></tr></table>
+
+<br/>
+
+<table><tr><td>
+
+### 🖼️ &nbsp; NeuralRestore — AI-Powered Image Restoration &nbsp; ![Private](https://img.shields.io/badge/Private-555?style=flat-square&logo=githubactions&logoColor=white)
+
+**`Deep Learning`** &nbsp; **`Image Restoration`** &nbsp; **`5-Model Pipeline`**
+
+Automatically detects and repairs damage in old, degraded, or corrupted images using a sequential 5-model deep learning pipeline — no manual masking needed. **EfficientNet-B4 + UNet** for damage detection and mask generation, **LaMa FFC Generator** for inpainting, **DnCNN** for denoising, **NAFNet** for deblurring, and **Real-ESRGAN 4x** for super resolution. Features test-time augmentation (4 flip variants), configurable mask thresholds, and a Gradio drag-and-drop UI with before/after comparison. Runs fully local — zero cloud dependency.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp;
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) &nbsp;
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white) &nbsp;
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+
+📩 *Demo available on request — [sp533013@gmail.com](mailto:sp533013@gmail.com)*
 
 </td></tr></table>
 
@@ -131,9 +151,9 @@ AI-powered stock chatbot with a **WhatsApp-style UI** and natural language query
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) &nbsp;
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=flat-square&logo=github&logoColor=white) &nbsp;
-![GARCH](https://img.shields.io/badge/GARCH-8A2BE2?style=flat-square) &nbsp;
+![GARCH](https://img.shields.io/badge/GARCH-8A2BE2?style=flat-square&logo=python&logoColor=white) &nbsp;
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) &nbsp;
-![yfinance](https://img.shields.io/badge/yfinance-00897B?style=flat-square)
+![yfinance](https://img.shields.io/badge/yfinance-00897B?style=flat-square&logo=yahoo&logoColor=white)
 
 </td></tr></table>
 
@@ -141,11 +161,11 @@ AI-powered stock chatbot with a **WhatsApp-style UI** and natural language query
 
 <table><tr><td>
 
-### 🏙️ &nbsp; Anand Civic Issue Reporting System &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/Anand-Civic-Issue-Reporting-System)
+### 🏙️ &nbsp; Anand Civic Issue Reporting System &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/anand-civic-app)
 
 **`Civic-Tech`** &nbsp; **`AI-Integrated`** &nbsp; **`Full-Stack`**
 
-Full-stack civic platform with **4 role types** (Citizen, Field Officer, Dept Admin, Municipal Admin). GPS boundary validation via Leaflet.js, **Gemini AI** image analysis for complaint classification, JWT + bcrypt auth, and a 6-stage complaint lifecycle with real-time Chart.js analytics dashboards.
+Full-stack civic complaint management platform with **4 role types** (Citizen, Field Officer, Dept Admin, Municipal Admin). GPS boundary validation via Leaflet.js restricts complaints to Anand city limits. **Gemini AI** image analysis auto-classifies complaint type. JWT + bcrypt auth, 6-stage complaint lifecycle (`pending → assigned → in_progress → completed → resolved → closed`), rate limiting, and real-time analytics dashboards.
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) &nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) &nbsp;
@@ -159,7 +179,7 @@ Full-stack civic platform with **4 role types** (Citizen, Field Officer, Dept Ad
 
 <table><tr><td>
 
-### 📋 &nbsp; Smart Attendance System &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/Smart-Attendance-System)
+### 📋 &nbsp; Smart Attendance System &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/smart-attendance)
 
 **`Computer Vision`** &nbsp; **`Full-Stack`**
 
@@ -168,7 +188,7 @@ Web-based attendance platform using **face recognition** for automated real-time
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) &nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) &nbsp;
-![face_recognition](https://img.shields.io/badge/face__recognition-FF6F61?style=flat-square)
+![face_recognition](https://img.shields.io/badge/face__recognition-FF6F61?style=flat-square&logo=opencv&logoColor=white)
 
 </td></tr></table>
 
