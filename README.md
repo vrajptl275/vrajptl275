@@ -233,19 +233,9 @@ Cleared the **Smart India Hackathon** internal college selection round. Ideated,
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vrajptl275&show_icons=true&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=a855f7&text_color=ffffff" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vrajptl275&layout=compact&theme=tokyo-night&hide_border=true&bg_color=0d1117&title_color=00e5ff&text_color=ffffff" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=vrajptl275&theme=tokyo-night&hide_border=true&background=0d1117&ring=00e5ff&fire=ff2d78&currStreakLabel=a855f7" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vrajptl275&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e5ff&line=a855f7&point=ff2d78&area=true&area_color=a855f7" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=vrajptl275&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00e5ff&line=a855f7&point=ff2d78&area=true&area_color=a855f7&count_private=true" />
 
 </div>
-
 <br/>
 
 ---
