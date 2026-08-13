@@ -143,6 +143,43 @@ Automatically detects and repairs damage in old, degraded, or corrupted images u
 
 <table><tr><td>
 
+### 🧠 &nbsp; JobLens — Resume-to-Job Matching with Local RAG &nbsp; ![Private](https://img.shields.io/badge/Private-555?style=flat-square&logo=githubactions&logoColor=white)
+
+**`RAG`** &nbsp; **`LLM Fine-Tuning`** &nbsp; **`NLP`**
+
+Fully offline, privacy-first resume-to-job matching system built on a local Retrieval-Augmented Generation pipeline. Resumes and 3,000+ job postings are embedded with **sentence-transformers** and matched via cosine similarity in **ChromaDB**, then filtered by a regex-based experience heuristic and synonym-aware skill matcher. A **LoRA fine-tuned Llama-3.1** model served through **Ollama** reads only the retrieved candidates and generates a calibrated match score, skill-gap analysis, and actionable suggestions — with zero cloud API dependency and all inference running on-device.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp;
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white) &nbsp;
+![Ollama](https://img.shields.io/badge/LLM-Ollama-green?style=flat-square) &nbsp;
+![ChromaDB](https://img.shields.io/badge/Vector_DB-ChromaDB-purple?style=flat-square)
+
+📩 *Demo available on request — [sp533013@gmail.com](mailto:sp533013@gmail.com)*
+
+</td></tr></table>
+
+<br/>
+
+<table><tr><td>
+
+### 📊 &nbsp; ShopPulse — E-Commerce BI Dashboard &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/shoppulse-ecommerce-bi)
+
+**`Business Intelligence`** &nbsp; **`Data Analytics`** &nbsp; **`Full-Stack`**
+
+Premium, Power BI-inspired interactive BI dashboard for e-commerce analytics covering 96,000+ transactional rows across 5 datasets. Delivers an Executive Overview with KPI cards and seasonality heatmaps, Sales & Product intelligence, **RFM customer segmentation** (Champions, Loyal, At Risk, Lost), Regional performance breakdowns, a what-if discount scenario simulator, a 6-month revenue forecast, and a natural-language **AI Analytics Assistant** for querying live business data.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) &nbsp;
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) &nbsp;
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white) &nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) &nbsp;
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+</td></tr></table>
+
+<br/>
+
+<table><tr><td>
+
 ### 📈 &nbsp; StockSense AI — Stock Analysis Chatbot &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/StockSense-AI)
 
 **`AI · Finance`** &nbsp; **`Full-Stack`**
