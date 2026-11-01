@@ -47,7 +47,7 @@ I love building **end-to-end AI systems** — from real-time computer vision pip
 | 🏛️ **University** | CVM University |
 | 📅 **Graduating** | 2027 |
 | 📍 **Location** | Anand, Gujarat, India |
-| 🎯 **CGPA** | 8.50 / 10 |
+| 🎯 **CGPA** | 8.61 / 10 |
 
 <br/>
 
