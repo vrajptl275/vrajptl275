@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+real-world+systems+%F0%9F%A4%96;Computer+Vision+%7C+Machine+Learning+%7C+NLP;Flask+%7C+Python+%7C+Full-Stack+Dev;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=00E5FF&center=true&vCenter=true&width=650&lines=Building+AI-powered+real-world+systems+%F0%9F%A4%96;Computer+Vision+%7C+Machine+Learning+%7C+NLP;Flask+%7C+FastAPI+%7C+React+%7C+Full-Stack+Dev;Open+to+Internships+%26+Collaborations+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -28,7 +28,7 @@ I love building **end-to-end AI systems** — from real-time computer vision pip
 
 | | |
 |:---|:---|
-| 🔭 **Working on** | Real-time Computer Vision & Driver Safety systems |
+| 🔭 **Working on** | Real-time Computer Vision, Driver Safety & AI-powered HealthTech systems |
 | 🌱 **Exploring** | LLMs, Generative AI & agentic workflows |
 | 🤝 **Looking for** | Internships in AI/ML & Software Development |
 | 🌐 **Portfolio** | [vrajpatel.tech](https://vrajpatel.tech) |
@@ -77,12 +77,15 @@ I love building **end-to-end AI systems** — from real-time computer vision pip
 
 **Frameworks & Libraries**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=gradio&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 **Tools & Databases**
 
@@ -99,13 +102,52 @@ I love building **end-to-end AI systems** — from real-time computer vision pip
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
+| Project | Domain | Repo |
+|:---|:---|:---:|
+| 🏥 **MediKiosk** | HealthTech · AI · Full-Stack | [Code](https://github.com/vrajptl275/MediKiosk-AYUSH) |
+| 🔒 **Driver Monitoring System** | Computer Vision · Safety | [Code](https://github.com/vrajptl275/driver-monitoring-system) |
+| 🖼️ **NeuralRestore** | Deep Learning · Image Restoration | [Code](https://github.com/vrajptl275/neuralrestore) |
+| 🧠 **JobLens** | RAG · LLM Fine-Tuning · NLP | [Code](https://github.com/vrajptl275/joblens-precision-align) |
+| 📊 **ShopPulse** | Business Intelligence | [Code](https://github.com/vrajptl275/shoppulse-ecommerce-bi) |
+| 📈 **StockSense AI** | AI · Finance | [Code](https://github.com/vrajptl275/stocksense-ai) |
+| 🏙️ **Anand Civic App** | Civic-Tech · Full-Stack | [Code](https://github.com/vrajptl275/anand-civic-app) |
+| 📋 **Smart Attendance** | Computer Vision · Full-Stack | [Code](https://github.com/vrajptl275/smart-attendance) |
+
+</div>
+
 <br/>
 
 <div align="center">
 
 <table><tr><td>
 
-### 🔒 &nbsp; Driver Drowsiness & Distraction Detection &nbsp; ![Private](https://img.shields.io/badge/Private-555?style=flat-square&logo=githubactions&logoColor=white)
+### 🏥 &nbsp; MediKiosk — AI-Powered Clinical Intake for Ayurvedic OPDs &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/MediKiosk-AYUSH)
+
+**`HealthTech`** &nbsp; **`Voice AI`** &nbsp; **`Full-Stack`** &nbsp; **`Ministry of AYUSH · AIIA`**
+
+A touch + voice **AI intake kiosk and doctor EMR workstation** built for high-volume Ayurvedic OPDs at the All India Institute of Ayurveda, where doctors get only 2–5 minutes per patient. Patients record their full clinical and **Ayurvedic (Dashavidha Pariksha)** history through an AI-driven conversational interview *before* entering the consultation room — including illiterate and elderly patients, via English + Hindi voice guidance using the Web Speech API.
+
+- 🚨 **Dual-layer red-flag watchdog** — a 0 ms deterministic English/Hindi keyword matcher plus a semantic LLM triage; life-threatening cases skip the queue and are routed straight to Casualty
+- 📄 **Vision-LLM document digitization** — prescriptions and reports are OCR'd and structured in a single call
+- 🩺 **Doctor workstation** — Tri-Dosha visualization, merged longitudinal history for returning patients, and an Ayush e-Prescription pad with pre-loaded pharmacopoeia formulations
+- 🔁 **Resilient AI layer** — Groq → Gemini → Cerebras fallback chain with multi-key rotation and strict Pydantic JSON validation, for **₹0 cloud operating cost**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) &nbsp;
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) &nbsp;
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) &nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) &nbsp;
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white) &nbsp;
+![Gemini AI](https://img.shields.io/badge/Gemini%20AI-4285F4?style=flat-square&logo=google&logoColor=white)
+
+</td></tr></table>
+
+<br/>
+
+<table><tr><td>
+
+### 🔒 &nbsp; Driver Drowsiness & Distraction Detection &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/driver-monitoring-system)
 
 **`Real-time Computer Vision`** &nbsp; **`Safety-Critical System`**
 
@@ -116,15 +158,13 @@ Dual-phase CV pipeline for driver safety monitoring. **Phase 1** uses MediaPipe 
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=google&logoColor=white) &nbsp;
 ![YOLOv11](https://img.shields.io/badge/YOLOv11-00FFAB?style=flat-square&logo=github&logoColor=black)
 
-📩 *Demo available on request — [sp533013@gmail.com](mailto:sp533013@gmail.com)*
-
 </td></tr></table>
 
 <br/>
 
 <table><tr><td>
 
-### 🖼️ &nbsp; NeuralRestore — AI-Powered Image Restoration &nbsp; ![Private](https://img.shields.io/badge/Private-555?style=flat-square&logo=githubactions&logoColor=white)
+### 🖼️ &nbsp; NeuralRestore — AI-Powered Image Restoration &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/neuralrestore)
 
 **`Deep Learning`** &nbsp; **`Image Restoration`** &nbsp; **`5-Model Pipeline`**
 
@@ -135,15 +175,13 @@ Automatically detects and repairs damage in old, degraded, or corrupted images u
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white) &nbsp;
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 
-📩 *Demo available on request — [sp533013@gmail.com](mailto:sp533013@gmail.com)*
-
 </td></tr></table>
 
 <br/>
 
 <table><tr><td>
 
-### 🧠 &nbsp; JobLens — Resume-to-Job Matching with Local RAG &nbsp; ![Private](https://img.shields.io/badge/Private-555?style=flat-square&logo=githubactions&logoColor=white)
+### 🧠 &nbsp; JobLens — Resume-to-Job Matching with Local RAG &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/joblens-precision-align)
 
 **`RAG`** &nbsp; **`LLM Fine-Tuning`** &nbsp; **`NLP`**
 
@@ -153,8 +191,6 @@ Fully offline, privacy-first resume-to-job matching system built on a local Retr
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square&logo=gradio&logoColor=white) &nbsp;
 ![Ollama](https://img.shields.io/badge/LLM-Ollama-green?style=flat-square) &nbsp;
 ![ChromaDB](https://img.shields.io/badge/Vector_DB-ChromaDB-purple?style=flat-square)
-
-📩 *Demo available on request — [sp533013@gmail.com](mailto:sp533013@gmail.com)*
 
 </td></tr></table>
 
@@ -180,7 +216,7 @@ Premium, Power BI-inspired interactive BI dashboard for e-commerce analytics cov
 
 <table><tr><td>
 
-### 📈 &nbsp; StockSense AI — Stock Analysis Chatbot &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/StockSense-AI)
+### 📈 &nbsp; StockSense AI — Stock Analysis Chatbot &nbsp; [![Repo](https://img.shields.io/badge/View%20on%20GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/vrajptl275/stocksense-ai)
 
 **`AI · Finance`** &nbsp; **`Full-Stack`**
 
